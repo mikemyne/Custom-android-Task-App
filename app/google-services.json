@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993855676619",
+    "project_id": "mynepyne-50e69",
+    "storage_bucket": "mynepyne-50e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993855676619:android:66a2c0ba3d0d64792d3b4e",
+        "android_client_info": {
+          "package_name": "com.e.mynepyne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993855676619-8dj5kd0j4ho523n3pqolh5pbnl9c2ade.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6vjDUN_Ft9un2P3SLGs1PSg4jAhkFOYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993855676619-8dj5kd0j4ho523n3pqolh5pbnl9c2ade.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
